@@ -1,3 +1,7 @@
+----
+This is the front end facing application which serves data from [this backend](https://github.com/benjflowers/twitterClone)
+----
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
